@@ -1,0 +1,1 @@
+print("MACIEK CZEMU MI TO R0BISZ")
